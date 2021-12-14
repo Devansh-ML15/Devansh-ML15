@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Devansh-ML15
+- 👋 Hi, I’m Devansh from India
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently expanding my skillset to become a Machine Learning Researcher
 - 📫 How to reach me ...Devansh.ml15@gmail.com
