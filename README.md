@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Devansh from India
+- 👋 Hi, I’m Devansh from India.
 - 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently expanding my skillset to become a Machine Learning Researcher
+- 🌱 An active, hardworking and inquisitive learner with strong mathematical 
+     and programming skills. I’m currently expanding my skillset to become a Machine Learning Researcher
 - 📫 How to reach me ...Devansh.ml15@gmail.com
 
 <!---
